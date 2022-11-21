@@ -1,3 +1,5 @@
+package two_sum;
+
 import java.util.ArrayList;
 
 public class Solution {
